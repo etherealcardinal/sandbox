@@ -1,0 +1,3 @@
+[submodule "deps/vengeance"]
+	path = deps/vengeance
+	url = https://github.com/etherealcardinal/vengeance.git
